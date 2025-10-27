@@ -79,3 +79,18 @@ body {
         max-width: 90%;
     }
 }
+
+.button-text-mobile {
+    display: none;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+    .button-text-full {
+        display: none;
+    }
+    
+    .button-text-mobile {
+        display: inline;
+    }
+}
