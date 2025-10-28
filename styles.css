@@ -52,7 +52,7 @@ body {
     text-decoration: none;
     text-align: center;
     transition: transform 0.2s ease, box-shadow 0.3s ease;
-    width: 35%;
+    width: 30%;
     margin: 0 auto;
 }
 
@@ -92,5 +92,9 @@ body {
     
     .button-text-mobile {
         display: inline;
+    }
+    
+    .submit-button {
+        font-size: 0.75rem;
     }
 }
