@@ -1,4 +1,4 @@
-# Seismora Landing Page
+# Seismora Landing Page [DEPRECATED]
 
 A landing page for the `seismora.ai` waitlist.
 
